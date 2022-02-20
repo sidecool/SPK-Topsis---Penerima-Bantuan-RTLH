@@ -1,0 +1,344 @@
+D:\SEMESTER 7\VB\PROJEK\belajar5\AppPerumahan\AppPerumahan\obj\Debug\ResolveAssemblyReference.cache
+D:\SEMESTER 7\VB\PROJEK\belajar5\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormLogin.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormMenuUtama.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.Resources.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.vbproj.GenerateResource.Cache
+D:\SEMESTER 7\VB\PROJEK\belajar5\AppPerumahan\AppPerumahan\bin\Debug\AppPerumahan.exe
+D:\SEMESTER 7\VB\PROJEK\belajar5\AppPerumahan\AppPerumahan\bin\Debug\AppPerumahan.pdb
+D:\SEMESTER 7\VB\PROJEK\belajar5\AppPerumahan\AppPerumahan\bin\Debug\AppPerumahan.xml
+D:\SEMESTER 7\VB\PROJEK\belajar5\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.exe
+D:\SEMESTER 7\VB\PROJEK\belajar5\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.xml
+D:\SEMESTER 7\VB\PROJEK\belajar5\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.pdb
+D:\SEMESTER 7\VB\PROJEK\belajar5\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormDataPekerjaan.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormDataPenghasilan.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormDataTanggungan.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormDataAtap.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormDataDinding.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormDataLantai.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormSeleksi.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormMasterUser.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.exe
+D:\SEMESTER 7\VB\PROJEK\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.xml
+D:\SEMESTER 7\VB\PROJEK\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.pdb
+D:\SEMESTER 7\VB\PROJEK\belajar5 copy\AppPerumahan\AppPerumahan\bin\Debug\AppPerumahan.exe
+D:\SEMESTER 7\VB\PROJEK\belajar5 copy\AppPerumahan\AppPerumahan\bin\Debug\AppPerumahan.pdb
+D:\SEMESTER 7\VB\PROJEK\belajar5 copy\AppPerumahan\AppPerumahan\bin\Debug\AppPerumahan.xml
+D:\SEMESTER 7\VB\PROJEK\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\ResolveAssemblyReference.cache
+D:\SEMESTER 7\VB\PROJEK\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormDataAtap.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormDataDinding.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormDataLantai.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormDataPekerjaan.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormDataPenghasilan.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormLogin.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormMasterUser.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormMenuUtama.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormDataTanggungan.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormSeleksi.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.Resources.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.vbproj.GenerateResource.Cache
+D:\SEMESTER 7\VB\PROJEK\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormDataCPB.resources
+D:\SEMESTER 7\VB\PROJEK\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormPerangkingan.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan\AppPerumahan\bin\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan\AppPerumahan\bin\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan\AppPerumahan\bin\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\ResolveAssemblyReference.cache
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormDataAtap.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormDataCPB.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormDataDinding.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormDataLantai.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormDataPekerjaan.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormDataPenghasilan.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormLogin.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormMasterUser.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormMenuUtama.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormDatatanggungan.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormPerangkingan.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.FormSeleksi.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.Resources.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan\AppPerumahan\obj\Debug\AppPerumahan.vbproj.GenerateResource.Cache
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\obj\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\obj\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\obj\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\bin\Debug\AppPerumahan.exe.config
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\bin\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\bin\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\bin\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\obj\Debug\ResolveAssemblyReference.cache
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormDataAtap.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormDataCPB.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormDataDinding.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormDataLantai.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormDataPekerjaan.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormDataPenghasilan.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormLaporan.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormLogin.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormMasterUser.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormMenuUtama.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormDatatanggungan.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormPerangkingan.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormSeleksi.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\obj\Debug\AppPerumahan.Resources.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan\AppPerumahan\obj\Debug\AppPerumahan.vbproj.GenerateResource.Cache
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\bin\Debug\AppPerumahan.exe.config
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\bin\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\bin\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\bin\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\ResolveAssemblyReference.cache
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\AppPerumahan.FormDataAtap.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\AppPerumahan.FormDataCPB.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\AppPerumahan.FormDataDinding.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\AppPerumahan.FormDataLantai.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\AppPerumahan.FormDataPekerjaan.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\AppPerumahan.FormDataPenghasilan.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\AppPerumahan.FormLaporan.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\AppPerumahan.FormLogin.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\AppPerumahan.FormMasterUser.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\AppPerumahan.FormMenuUtama.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\AppPerumahan.FormDatatanggungan.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\AppPerumahan.FormPerangkingan.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\AppPerumahan.FormSeleksi.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\AppPerumahan.Resources.resources
+D:\@PROJECT\@SKRIPSI\Romar Merauke\dari Romar\belajar5 copy\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\AppPerumahan.vbproj.GenerateResource.Cache
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Laporan - Filter\AppPerumahan\bin\Debug\AppPerumahan.exe.config
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Laporan - Filter\AppPerumahan\obj\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\bin\Debug\AppPerumahan.exe.config
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\ResolveAssemblyReference.cache
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormKoneksi.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormDataAtap.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormDataCPB.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormDataDinding.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormDataLantai.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormDataPekerjaan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormDataPenghasilan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormLaporan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormLogin.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormMasterUser.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormMenuUtama.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormDatatanggungan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormPerangkingan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormSeleksi.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.Resources.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.vbproj.GenerateResource.Cache
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\bin\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\bin\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\bin\Debug\AppPerumahan.xml
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\bin\Debug\AppPerumahan.exe.config
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.exe
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.xml
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.pdb
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\bin\Debug\AppPerumahan.exe
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\bin\Debug\AppPerumahan.pdb
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\bin\Debug\AppPerumahan.xml
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormKoneksi.resources
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormDataAtap.resources
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormDataCPB.resources
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormDataDinding.resources
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormDataLantai.resources
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormDataPekerjaan.resources
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormDataPenghasilan.resources
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormLaporan.resources
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormLogin.resources
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormMasterUser.resources
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormMenuUtama.resources
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormDatatanggungan.resources
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormPerangkingan.resources
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.FormSeleksi.resources
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.Resources.resources
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\AppPerumahan - Perbaikan Koneksi Database\AppPerumahan\obj\Debug\AppPerumahan.vbproj.GenerateResource.Cache
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\bin\Debug\AppPerumahan.exe.config
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\bin\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\bin\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\bin\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\ResolveAssemblyReference.cache
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\AppPerumahan.FormKoneksi.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\AppPerumahan.FormDataAtap.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\AppPerumahan.FormDataCPB.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\AppPerumahan.FormDataDinding.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\AppPerumahan.FormDataLantai.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\AppPerumahan.FormDataPekerjaan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\AppPerumahan.FormDataPenghasilan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\AppPerumahan.FormLaporan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\AppPerumahan.FormLogin.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\AppPerumahan.FormMasterUser.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\AppPerumahan.FormMenuUtama.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\AppPerumahan.FormDatatanggungan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\AppPerumahan.FormPerangkingan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\AppPerumahan.FormSeleksi.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\AppPerumahan.Resources.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\AppPerumahan.vbproj.GenerateResource.Cache
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\AppPerumahan.FormHistori.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Perbaikan Ranking\AppPerumahan\obj\Debug\AppPerumahan.FormLaporanHistori.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\bin\Debug\AppPerumahan.exe.config
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\bin\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\bin\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\bin\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\ResolveAssemblyReference.cache
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\AppPerumahan.FormHistori.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\AppPerumahan.FormKoneksi.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\AppPerumahan.FormLaporanHistori.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\AppPerumahan.FormDataAtap.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\AppPerumahan.FormDataCPB.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\AppPerumahan.FormDataDinding.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\AppPerumahan.FormDataLantai.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\AppPerumahan.FormDataPekerjaan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\AppPerumahan.FormDataPenghasilan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\AppPerumahan.FormLaporan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\AppPerumahan.FormLogin.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\AppPerumahan.FormMasterUser.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\AppPerumahan.FormMenuUtama.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\AppPerumahan.FormDatatanggungan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\AppPerumahan.FormPerangkingan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\AppPerumahan.FormSeleksi.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\AppPerumahan.Resources.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Tambah Histori\AppPerumahan\obj\Debug\AppPerumahan.vbproj.GenerateResource.Cache
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\bin\Debug\AppPerumahan.exe.config
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\bin\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\bin\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\bin\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\ResolveAssemblyReference.cache
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormHistori.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormKoneksi.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormLaporanHistori.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormDataAtap.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormDataCPB.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormDataDinding.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormDataLantai.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormDataPekerjaan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormDataPenghasilan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormLaporan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormLogin.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormMasterUser.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormMenuUtama.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormDatatanggungan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormPerangkingan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\AppPerumahan.FormSeleksi.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\AppPerumahan.Resources.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Histori dan Laporan\AppPerumahan\obj\Debug\AppPerumahan.vbproj.GenerateResource.Cache
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\bin\Debug\AppPerumahan.exe.config
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\bin\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\bin\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\bin\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\ResolveAssemblyReference.cache
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\AppPerumahan.FormHistori.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\AppPerumahan.FormKoneksi.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\AppPerumahan.FormLaporanHistori.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\AppPerumahan.FormDataAtap.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\AppPerumahan.FormDataCPB.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\AppPerumahan.FormDataDinding.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\AppPerumahan.FormDataLantai.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\AppPerumahan.FormDataPekerjaan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\AppPerumahan.FormDataPenghasilan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\AppPerumahan.FormLaporan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\AppPerumahan.FormLogin.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\AppPerumahan.FormMasterUser.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\AppPerumahan.FormMenuUtama.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\AppPerumahan.FormDatatanggungan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\AppPerumahan.FormPerangkingan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\AppPerumahan.FormSeleksi.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\AppPerumahan.Resources.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Distrik dll\AppPerumahan\obj\Debug\AppPerumahan.vbproj.GenerateResource.Cache
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\bin\Debug\AppPerumahan.exe.config
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\ResolveAssemblyReference.cache
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.FormHistori.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.FormKoneksi.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.FormLaporanHistori.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.FormDataAtap.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.FormDataCPB.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.FormDataDinding.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.FormDataLantai.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.FormDataPekerjaan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.FormDataPenghasilan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.FormLaporan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.FormLogin.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.FormMasterUser.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.FormMenuUtama.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.FormDatatanggungan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.FormPerangkingan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.FormSeleksi.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.Resources.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.vbproj.GenerateResource.Cache
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\bin\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\bin\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\bin\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final\AppPerumahan\obj\Debug\AppPerumahan.FormGantiPassword.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\bin\Debug\AppPerumahan.exe.config
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\bin\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\bin\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\bin\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\ResolveAssemblyReference.cache
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormGantiPassword.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormHistori.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormKoneksi.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormLaporanHistori.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormDataAtap.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormDataCPB.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormDataDinding.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormDataLantai.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormDataPekerjaan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormDataPenghasilan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormLaporan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormLogin.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormMasterUser.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormMenuUtama.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormDatatanggungan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormPerangkingan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormSeleksi.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.Resources.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Revisi\AppPerumahan\obj\Debug\AppPerumahan.vbproj.GenerateResource.Cache
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\bin\Debug\AppPerumahan.exe.config
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\bin\Debug\AppPerumahan.exe
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\bin\Debug\AppPerumahan.pdb
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\bin\Debug\AppPerumahan.xml
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\ResolveAssemblyReference.cache
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormGantiPassword.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormHistori.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormKoneksi.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormLaporanHistori.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormDataAtap.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormDataCPB.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormDataDinding.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormDataLantai.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormDataPekerjaan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormDataPenghasilan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormLaporan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormLogin.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormMasterUser.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormMenuUtama.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormDatatanggungan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormPerangkingan.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.FormSeleksi.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.Resources.resources
+D:\@PROJECT\@SKRIPSI\2. Romar Merauke\Proses Program\AppPerumahan - Final - Revisi\AppPerumahan\obj\Debug\AppPerumahan.vbproj.GenerateResource.Cache

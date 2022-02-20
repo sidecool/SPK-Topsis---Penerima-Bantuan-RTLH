@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="1" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (MySettings)" PropertyReference="ApplicationSettings.AppPerumahan.My.MySettings.GlobalReference.Default.ConnectionString" Provider="System.Data.Odbc" />
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="skripsi2ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="skripsi2ConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.AppPerumahan.My.MySettings.GlobalReference.Default.skripsi2ConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="v_reportTableAdapter" GeneratorDataComponentClassName="v_reportTableAdapter" Name="v_report" UserDataComponentName="v_reportTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="skripsi2ConnectionString (MySettings)" DbObjectName="skripsi2.v_report" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        RANKING, NAMA_CPB, KELURAHAN, DISTRIK, ALAMAT_LENGKAP, C1_PEKERJAAN, C2_PENGHASILAN, C3_TANGGUNGAN, C4_ATAP, C5_DINDING, C6_LANTAI, NILAI
+FROM            v_report</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="RANKING" DataSetColumn="RANKING" />
+              <Mapping SourceColumn="NAMA_CPB" DataSetColumn="NAMA_CPB" />
+              <Mapping SourceColumn="C1_PEKERJAAN" DataSetColumn="C1_PEKERJAAN" />
+              <Mapping SourceColumn="C2_PENGHASILAN" DataSetColumn="C2_PENGHASILAN" />
+              <Mapping SourceColumn="C3_TANGGUNGAN" DataSetColumn="C3_TANGGUNGAN" />
+              <Mapping SourceColumn="C4_ATAP" DataSetColumn="C4_ATAP" />
+              <Mapping SourceColumn="C5_DINDING" DataSetColumn="C5_DINDING" />
+              <Mapping SourceColumn="C6_LANTAI" DataSetColumn="C6_LANTAI" />
+              <Mapping SourceColumn="NILAI" DataSetColumn="NILAI" />
+              <Mapping SourceColumn="KELURAHAN" DataSetColumn="KELURAHAN" />
+              <Mapping SourceColumn="ALAMAT_LENGKAP" DataSetColumn="ALAMAT_LENGKAP" />
+              <Mapping SourceColumn="DISTRIK" DataSetColumn="DISTRIK" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tbl_historiTableAdapter" GeneratorDataComponentClassName="tbl_historiTableAdapter" Name="tbl_histori" UserDataComponentName="tbl_historiTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="skripsi2ConnectionString (MySettings)" DbObjectName="skripsi2.tbl_histori" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>INSERT INTO `tbl_histori` (`KODE_HISTORI`, `NM_HISTORI`, `TANGGAL`, `KODE_RANKING`, `RANKING`, `KODE_CPB`, `NAMA_CPB`, `ALAMAT_CPB`, `C1_PEKERJAAN`, `C2_PENGHASILAN`, `C3_TANGGUNGAN`, `C4_ATAP`, `C5_DINDING`, `C6_LANTAI`, `NILAI`) VALUES (@p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@p1" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="KODE_HISTORI" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@p2" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="NM_HISTORI" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@p3" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="TANGGAL" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@p4" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="KODE_RANKING" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@p5" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="RANKING" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@p6" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="KODE_CPB" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@p7" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="NAMA_CPB" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@p8" Precision="0" ProviderType="Text" Scale="0" Size="0" SourceColumn="ALAMAT_CPB" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@p9" Precision="0" ProviderType="Text" Scale="0" Size="0" SourceColumn="C1_PEKERJAAN" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@p10" Precision="0" ProviderType="Text" Scale="0" Size="0" SourceColumn="C2_PENGHASILAN" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@p11" Precision="0" ProviderType="Text" Scale="0" Size="0" SourceColumn="C3_TANGGUNGAN" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@p12" Precision="0" ProviderType="Text" Scale="0" Size="0" SourceColumn="C4_ATAP" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@p13" Precision="0" ProviderType="Text" Scale="0" Size="0" SourceColumn="C5_DINDING" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@p14" Precision="0" ProviderType="Text" Scale="0" Size="0" SourceColumn="C6_LANTAI" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@p15" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="NILAI" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        KODE_HISTORI, NM_HISTORI, TANGGAL, KODE_RANKING, RANKING, KODE_CPB, NAMA_CPB, ALAMAT_CPB, C1_PEKERJAAN, C2_PENGHASILAN, C3_TANGGUNGAN, C4_ATAP, C5_DINDING, C6_LANTAI, NILAI
+FROM            tbl_histori</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="KODE_HISTORI" DataSetColumn="KODE_HISTORI" />
+              <Mapping SourceColumn="NM_HISTORI" DataSetColumn="NM_HISTORI" />
+              <Mapping SourceColumn="KODE_RANKING" DataSetColumn="KODE_RANKING" />
+              <Mapping SourceColumn="RANKING" DataSetColumn="RANKING" />
+              <Mapping SourceColumn="KODE_CPB" DataSetColumn="KODE_CPB" />
+              <Mapping SourceColumn="NAMA_CPB" DataSetColumn="NAMA_CPB" />
+              <Mapping SourceColumn="C1_PEKERJAAN" DataSetColumn="C1_PEKERJAAN" />
+              <Mapping SourceColumn="C2_PENGHASILAN" DataSetColumn="C2_PENGHASILAN" />
+              <Mapping SourceColumn="C3_TANGGUNGAN" DataSetColumn="C3_TANGGUNGAN" />
+              <Mapping SourceColumn="C4_ATAP" DataSetColumn="C4_ATAP" />
+              <Mapping SourceColumn="C5_DINDING" DataSetColumn="C5_DINDING" />
+              <Mapping SourceColumn="C6_LANTAI" DataSetColumn="C6_LANTAI" />
+              <Mapping SourceColumn="NILAI" DataSetColumn="NILAI" />
+              <Mapping SourceColumn="TANGGAL" DataSetColumn="TANGGAL" />
+              <Mapping SourceColumn="ALAMAT_CPB" DataSetColumn="ALAMAT_CPB" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet1" msprop:Generator_DataSetName="DataSet1" msprop:EnableTableAdapterManager="True">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="v_report" msprop:Generator_UserTableName="v_report" msprop:Generator_RowDeletedName="v_reportRowDeleted" msprop:Generator_RowChangedName="v_reportRowChanged" msprop:Generator_RowClassName="v_reportRow" msprop:Generator_RowChangingName="v_reportRowChanging" msprop:Generator_RowEvArgName="v_reportRowChangeEvent" msprop:Generator_RowEvHandlerName="v_reportRowChangeEventHandler" msprop:Generator_TableClassName="v_reportDataTable" msprop:Generator_TableVarName="tablev_report" msprop:Generator_RowDeletingName="v_reportRowDeleting" msprop:Generator_TablePropName="v_report">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RANKING" msprop:Generator_UserColumnName="RANKING" msprop:Generator_ColumnVarNameInTable="columnRANKING" msprop:Generator_ColumnPropNameInRow="RANKING" msprop:Generator_ColumnPropNameInTable="RANKINGColumn" type="xs:float" />
+              <xs:element name="NAMA_CPB" msprop:Generator_UserColumnName="NAMA_CPB" msprop:Generator_ColumnVarNameInTable="columnNAMA_CPB" msprop:Generator_ColumnPropNameInRow="NAMA_CPB" msprop:Generator_ColumnPropNameInTable="NAMA_CPBColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="C1_PEKERJAAN" msprop:Generator_UserColumnName="C1_PEKERJAAN" msprop:Generator_ColumnVarNameInTable="columnC1_PEKERJAAN" msprop:Generator_ColumnPropNameInRow="C1_PEKERJAAN" msprop:Generator_ColumnPropNameInTable="C1_PEKERJAANColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="C2_PENGHASILAN" msprop:Generator_UserColumnName="C2_PENGHASILAN" msprop:Generator_ColumnVarNameInTable="columnC2_PENGHASILAN" msprop:Generator_ColumnPropNameInRow="C2_PENGHASILAN" msprop:Generator_ColumnPropNameInTable="C2_PENGHASILANColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="C3_TANGGUNGAN" msprop:Generator_UserColumnName="C3_TANGGUNGAN" msprop:Generator_ColumnVarNameInTable="columnC3_TANGGUNGAN" msprop:Generator_ColumnPropNameInRow="C3_TANGGUNGAN" msprop:Generator_ColumnPropNameInTable="C3_TANGGUNGANColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="C4_ATAP" msprop:Generator_UserColumnName="C4_ATAP" msprop:Generator_ColumnVarNameInTable="columnC4_ATAP" msprop:Generator_ColumnPropNameInRow="C4_ATAP" msprop:Generator_ColumnPropNameInTable="C4_ATAPColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="C5_DINDING" msprop:Generator_UserColumnName="C5_DINDING" msprop:Generator_ColumnVarNameInTable="columnC5_DINDING" msprop:Generator_ColumnPropNameInRow="C5_DINDING" msprop:Generator_ColumnPropNameInTable="C5_DINDINGColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="C6_LANTAI" msprop:Generator_UserColumnName="C6_LANTAI" msprop:Generator_ColumnVarNameInTable="columnC6_LANTAI" msprop:Generator_ColumnPropNameInRow="C6_LANTAI" msprop:Generator_ColumnPropNameInTable="C6_LANTAIColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NILAI" msprop:Generator_UserColumnName="NILAI" msprop:Generator_ColumnVarNameInTable="columnNILAI" msprop:Generator_ColumnPropNameInRow="NILAI" msprop:Generator_ColumnPropNameInTable="NILAIColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="KELURAHAN" msprop:Generator_UserColumnName="KELURAHAN" msprop:Generator_ColumnPropNameInRow="KELURAHAN" msprop:Generator_ColumnVarNameInTable="columnKELURAHAN" msprop:Generator_ColumnPropNameInTable="KELURAHANColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ALAMAT_LENGKAP" msprop:Generator_UserColumnName="ALAMAT_LENGKAP" msprop:Generator_ColumnPropNameInRow="ALAMAT_LENGKAP" msprop:Generator_ColumnVarNameInTable="columnALAMAT_LENGKAP" msprop:Generator_ColumnPropNameInTable="ALAMAT_LENGKAPColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="219" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DISTRIK" msprop:Generator_UserColumnName="DISTRIK" msprop:Generator_ColumnVarNameInTable="columnDISTRIK" msprop:Generator_ColumnPropNameInRow="DISTRIK" msprop:Generator_ColumnPropNameInTable="DISTRIKColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tbl_histori" msprop:Generator_UserTableName="tbl_histori" msprop:Generator_RowDeletedName="tbl_historiRowDeleted" msprop:Generator_RowChangedName="tbl_historiRowChanged" msprop:Generator_RowClassName="tbl_historiRow" msprop:Generator_RowChangingName="tbl_historiRowChanging" msprop:Generator_RowEvArgName="tbl_historiRowChangeEvent" msprop:Generator_RowEvHandlerName="tbl_historiRowChangeEventHandler" msprop:Generator_TableClassName="tbl_historiDataTable" msprop:Generator_TableVarName="tabletbl_histori" msprop:Generator_RowDeletingName="tbl_historiRowDeleting" msprop:Generator_TablePropName="tbl_histori">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="KODE_HISTORI" msprop:Generator_UserColumnName="KODE_HISTORI" msprop:Generator_ColumnVarNameInTable="columnKODE_HISTORI" msprop:Generator_ColumnPropNameInRow="KODE_HISTORI" msprop:Generator_ColumnPropNameInTable="KODE_HISTORIColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NM_HISTORI" msprop:Generator_UserColumnName="NM_HISTORI" msprop:Generator_ColumnVarNameInTable="columnNM_HISTORI" msprop:Generator_ColumnPropNameInRow="NM_HISTORI" msprop:Generator_ColumnPropNameInTable="NM_HISTORIColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="KODE_RANKING" msprop:Generator_UserColumnName="KODE_RANKING" msprop:Generator_ColumnVarNameInTable="columnKODE_RANKING" msprop:Generator_ColumnPropNameInRow="KODE_RANKING" msprop:Generator_ColumnPropNameInTable="KODE_RANKINGColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="RANKING" msprop:Generator_UserColumnName="RANKING" msprop:Generator_ColumnVarNameInTable="columnRANKING" msprop:Generator_ColumnPropNameInRow="RANKING" msprop:Generator_ColumnPropNameInTable="RANKINGColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="KODE_CPB" msprop:Generator_UserColumnName="KODE_CPB" msprop:Generator_ColumnVarNameInTable="columnKODE_CPB" msprop:Generator_ColumnPropNameInRow="KODE_CPB" msprop:Generator_ColumnPropNameInTable="KODE_CPBColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NAMA_CPB" msprop:Generator_UserColumnName="NAMA_CPB" msprop:Generator_ColumnVarNameInTable="columnNAMA_CPB" msprop:Generator_ColumnPropNameInRow="NAMA_CPB" msprop:Generator_ColumnPropNameInTable="NAMA_CPBColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="C1_PEKERJAAN" msprop:Generator_UserColumnName="C1_PEKERJAAN" msprop:Generator_ColumnVarNameInTable="columnC1_PEKERJAAN" msprop:Generator_ColumnPropNameInRow="C1_PEKERJAAN" msprop:Generator_ColumnPropNameInTable="C1_PEKERJAANColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="65535" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="C2_PENGHASILAN" msprop:Generator_UserColumnName="C2_PENGHASILAN" msprop:Generator_ColumnVarNameInTable="columnC2_PENGHASILAN" msprop:Generator_ColumnPropNameInRow="C2_PENGHASILAN" msprop:Generator_ColumnPropNameInTable="C2_PENGHASILANColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="65535" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="C3_TANGGUNGAN" msprop:Generator_UserColumnName="C3_TANGGUNGAN" msprop:Generator_ColumnVarNameInTable="columnC3_TANGGUNGAN" msprop:Generator_ColumnPropNameInRow="C3_TANGGUNGAN" msprop:Generator_ColumnPropNameInTable="C3_TANGGUNGANColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="65535" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="C4_ATAP" msprop:Generator_UserColumnName="C4_ATAP" msprop:Generator_ColumnVarNameInTable="columnC4_ATAP" msprop:Generator_ColumnPropNameInRow="C4_ATAP" msprop:Generator_ColumnPropNameInTable="C4_ATAPColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="65535" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="C5_DINDING" msprop:Generator_UserColumnName="C5_DINDING" msprop:Generator_ColumnVarNameInTable="columnC5_DINDING" msprop:Generator_ColumnPropNameInRow="C5_DINDING" msprop:Generator_ColumnPropNameInTable="C5_DINDINGColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="65535" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="C6_LANTAI" msprop:Generator_UserColumnName="C6_LANTAI" msprop:Generator_ColumnVarNameInTable="columnC6_LANTAI" msprop:Generator_ColumnPropNameInRow="C6_LANTAI" msprop:Generator_ColumnPropNameInTable="C6_LANTAIColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="65535" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NILAI" msprop:Generator_UserColumnName="NILAI" msprop:Generator_ColumnVarNameInTable="columnNILAI" msprop:Generator_ColumnPropNameInRow="NILAI" msprop:Generator_ColumnPropNameInTable="NILAIColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TANGGAL" msprop:Generator_UserColumnName="TANGGAL" msprop:Generator_ColumnVarNameInTable="columnTANGGAL" msprop:Generator_ColumnPropNameInRow="TANGGAL" msprop:Generator_ColumnPropNameInTable="TANGGALColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ALAMAT_CPB" msprop:Generator_UserColumnName="ALAMAT_CPB" msprop:Generator_ColumnPropNameInRow="ALAMAT_CPB" msprop:Generator_ColumnVarNameInTable="columnALAMAT_CPB" msprop:Generator_ColumnPropNameInTable="ALAMAT_CPBColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="65535" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

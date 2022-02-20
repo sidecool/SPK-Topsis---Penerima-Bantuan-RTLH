@@ -1,0 +1,1 @@
+INSERT INTO skripsi2.tbl_user (kode_user, nama_user, password_user, level_user) VALUES ('ADM03', 'user', 'user', 'USER');
